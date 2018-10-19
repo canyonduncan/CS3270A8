@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CS3270A8 Canyon Duncan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">ID:</string>
+    <string name="name_required">Name (Required):</string>
+    <string name="course_code">Course Code:</string>
+    <string name="start_date">Start Date:</string>
+    <string name="end_date">End Date:</string>
+    <string name="save">Save</string>
+    <string name="blank"> </string>
+    <string name="title_activity_main">CS3270A8 Canyon Duncan</string>
+    <string name="action_settings">Settings</string>
+    <string name="course_id">Course ID:</string>
+    <string name="course_name">Course Name:</string>
+    <string name="coursecode">Course Code:</string>
+    <string name="edit">Edit</string>
+    <string name="are_you">Are you sure?</string>
+    <string name="this_will_delete">This will permanently delete the course</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
